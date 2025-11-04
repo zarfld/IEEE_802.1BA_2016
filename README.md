@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # IEEE 802.1BA-2016 (AVB Systems) – Developer Guide
 
 This library provides a lightweight API for using IEEE 802.1BA-2016 AVB System profiles in applications and integrations. It follows the namespace style used throughout this repo.
@@ -59,3 +60,7 @@ int main() {
 - This module provides the application-facing pieces to select profiles, validate parameters, and ensure dependent services are present.
 - It does not implement the dependent protocols (gPTP, MSRP/MAAP, AVTP, Qav) here; those live in their respective modules in this repository and must be integrated/started as required by your app.
 
+=======
+# IEEE_802.1BA_2016
+IEEE 802.1BA-2016 Audio Video Bridging (AVB) Systems Implementation - Standards-compliant pure protocol implementation
+>>>>>>> 8fa86d3a8762dc2b0bcca2b4fc96a3a210074a48
